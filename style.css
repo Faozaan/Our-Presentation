@@ -517,7 +517,7 @@ input:nth-child(1){
     z-index: -200;
 }
 
-@media (max-width: 800px) {
+@media (max-width: 900px) {
     .header{
         display: block;
         padding: 0px 10%;
@@ -669,8 +669,9 @@ input:nth-child(1){
     }
 
     .image-overlay3 {
-        width: 150%;
+        width: 120%;
         height: 100%;
+        right: 40%;
     }
 
     .bookmark img {
